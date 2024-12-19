@@ -1,4 +1,5 @@
 <!-- README.md -->
+<img src="./other/banner.png" alt="GitHub Banner" width="100%" style="border-radius: 20px;" />
 
 # Hello World!, I'm Hussain, a Software Developer 📱:
 
