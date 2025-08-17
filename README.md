@@ -1,5 +1,7 @@
 <!-- README.md -->
-<img src="./other/coding.webp" alt="GitHub Banner" width="100%" style="border-radius: 20px;" />
+<a href="#">
+  <img src="./other/coding.webp" alt="GitHub Banner" width="100%" style="border-radius: 20px;" />
+</a>
 
 # Hello World!, I'm Hussain, a Software Developer 📱:
 
