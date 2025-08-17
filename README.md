@@ -15,7 +15,7 @@
 <div align="left">
   <a href="#"><img src="https://img.shields.io/badge/Flutter-00238B?logo=flutter&logoColor=white&style=for-the-badge" style="box-shadow: 0 0 10pxrgba(255, 255, 255, 0.6);; border-radius: 4px; margin: 0 4px 0 0;"></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" style="box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);; border-radius: 4px; margin: 0 4px 0 0;"></a>
-  <img src="https://img.shields.io/badge/C++-02569B?logo=cplusplus&logoColor=white&style=for-the-badge" style="box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);; border-radius: 4px; margin: 0 4px 0 0;"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-02569B?logo=cplusplus&logoColor=white&style=for-the-badge" style="box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);; border-radius: 4px; margin: 0 4px 0 0;"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="border-radius: 4px; margin: 0;"></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 4px; margin: 0 4px 0 0;"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 4px; margin: 0 4px 0 0;"></a>
